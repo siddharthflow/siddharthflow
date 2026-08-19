@@ -170,14 +170,21 @@ An end-to-end Data Engineering project designed to demonstrate production-orient
 ### Technology
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" width="42" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg" width="42" alt="Apache Spark"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazons3.svg" width="42" alt="Amazon S3"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" width="42" alt="Apache Airflow"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheiceberg.svg" width="42" alt="Apache Iceberg"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="42" alt="Snowflake"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" width="42" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="42" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="42" height="42" alt="Apache Spark"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" width="42" height="42" alt="Apache Airflow"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amazon-s3.svg" width="42" height="42" alt="Amazon S3"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-iceberg.svg" width="42" height="42" alt="Apache Iceberg"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/snowflake-color.svg" width="42" height="42" alt="Snowflake"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" width="42" height="42" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="42" height="42" alt="GitHub"/>
 </p>
 
 ### Pipeline
