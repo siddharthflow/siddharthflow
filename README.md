@@ -82,7 +82,7 @@ These technologies are part of the AWS/data-engineering experience documented in
 <p>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheiceberg.svg" width="50" height="50" alt="Apache Iceberg"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="50" height="50" alt="Snowflake"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="50" height="50" alt="Databricks"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/databricks.svg" width="50" height="50" alt="Databricks"/>
 </p>
 
 **Apache Iceberg • Snowflake • Databricks**
@@ -222,7 +222,7 @@ I'm actively expanding into modern cloud and lakehouse technologies:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="45" alt="Snowflake"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="45" alt="Databricks"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/databricks.svg" width="45" alt="Databricks"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachekafka.svg" width="45" alt="Apache Kafka"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheiceberg.svg" width="45" alt="Apache Iceberg"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="45" alt="OpenAI"/>
