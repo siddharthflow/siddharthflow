@@ -5,8 +5,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="55" height="55" alt="Apache"/>
-  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg" width="55" height="55" alt="Apache Spark"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" width="55" height="55" alt="Apache Airflow"/>
