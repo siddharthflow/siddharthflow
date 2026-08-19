@@ -7,7 +7,7 @@
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="55" height="55" alt="Apache Spark"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" width="55" height="55" alt="Apache Airflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" width="55" height="55" alt="Apache Airflow"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amazon-s3.svg" width="55" height="55" alt="Amazon S3"/>
   &nbsp;&nbsp;
@@ -15,7 +15,7 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/snowflake-color.svg" width="55" height="55" alt="Snowflake"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" width="55" height="55" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" width="55" height="55" alt="Git"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="55" height="55" alt="GitHub"/>
 </p>
