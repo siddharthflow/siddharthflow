@@ -11,7 +11,7 @@
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazons3.svg" width="55" height="55" alt="Amazon S3"/>
   &nbsp;&nbsp;
-  <img src="https://iceberg.apache.org/assets/images/Iceberg-logo.svg" width="55" height="55" alt="Apache Iceberg"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-iceberg.svg" width="55" height="55" alt="Apache Iceberg"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="55" height="55" alt="Snowflake"/>
   &nbsp;&nbsp;
