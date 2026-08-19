@@ -9,7 +9,7 @@
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" width="55" height="55" alt="Apache Airflow"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazons3.svg" width="55" height="55" alt="Amazon S3"/>
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amazon-s3.svg" width="55" height="55" alt="Amazon S3"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-iceberg.svg" width="55" height="55" alt="Apache Iceberg"/>
   &nbsp;&nbsp;
