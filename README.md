@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg" width="55" height="55" alt="Apache Spark"/>
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="55" height="55" alt="Apache Spark"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" width="55" height="55" alt="Apache Airflow"/>
   &nbsp;&nbsp;
@@ -13,7 +13,7 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-iceberg.svg" width="55" height="55" alt="Apache Iceberg"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="55" height="55" alt="Snowflake"/>
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/snowflake-color.svg" width="55" height="55" alt="Snowflake"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" width="55" height="55" alt="Git"/>
   &nbsp;&nbsp;
