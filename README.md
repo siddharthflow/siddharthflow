@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Siddharth
+# 👋 Hi, I'm Siddhartha
 
 ### Data Engineer | Cloud Data Engineering | PySpark | AWS | Data Platforms
 
@@ -94,7 +94,7 @@ These technologies are part of the AWS/data-engineering experience documented in
 ## 🔄 Orchestration
 
 <p>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" width="55" height="55" alt="Apache Airflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" width="55" height="55" alt="Apache Airflow"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonwebservices.svg" width="50" height="50" alt="AWS"/>
 </p>
 
@@ -174,7 +174,7 @@ An end-to-end Data Engineering project designed to demonstrate production-orient
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" width="42" alt="Python"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg" width="42" alt="Apache Spark"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazons3.svg" width="42" alt="Amazon S3"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" width="42" alt="Apache Airflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" width="42" alt="Apache Airflow"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheiceberg.svg" width="42" alt="Apache Iceberg"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="42" alt="Snowflake"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" width="42" alt="Git"/>
