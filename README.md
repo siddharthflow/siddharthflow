@@ -110,7 +110,7 @@ My professional experience includes Airflow and AWS workflow orchestration.
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" width="50" height="50" alt="Git"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="50" height="50" alt="GitHub"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jenkins.svg" width="50" height="50" alt="Jenkins"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" width="50" height="50" alt="GitHub Actions"/>
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="50" height="50" alt="GitHub Actions"/>
 </p>
 
 **Git • GitHub • Jenkins • CI/CD • GitHub Actions**
