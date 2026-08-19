@@ -42,7 +42,6 @@ I enjoy building production-oriented data platforms with a strong focus on **sca
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apache.svg" width="45" height="45" alt="Apache"/>
 </p>
 
 **Python • PySpark • Spark SQL • SQL • T-SQL**
@@ -64,8 +63,8 @@ I enjoy building production-oriented data platforms with a strong focus on **sca
 ## ☁️ AWS Cloud
 
 <p>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonwebservices.svg" width="50" height="50" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazons3.svg" width="50" height="50" alt="Amazon S3"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/amazon-web-services.svg" width="50" height="50" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amazon-s3.svg" width="50" height="50" alt="Amazon S3"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonemr.svg" width="50" height="50" alt="AWS EMR"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/awsglue.svg" width="50" height="50" alt="AWS Glue"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonredshift.svg" width="50" height="50" alt="Amazon Redshift"/>
@@ -95,7 +94,7 @@ These technologies are part of the AWS/data-engineering experience documented in
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" width="55" height="55" alt="Apache Airflow"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonwebservices.svg" width="50" height="50" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/amazon-web-services.svg" width="50" height="50" alt="AWS"/>
 </p>
 
 **Apache Airflow • AWS Glue Workflows • AWS Step Functions**
